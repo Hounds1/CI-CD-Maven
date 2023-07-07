@@ -4,3 +4,7 @@ spring:
 
 server:
   port: 9090
+
+logging:
+  level:
+    me.hound1: info
