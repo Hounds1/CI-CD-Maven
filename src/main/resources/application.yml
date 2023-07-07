@@ -7,4 +7,4 @@ server:
 
 logging:
   level:
-    me.hound1: info
+    me.hound1: trace
